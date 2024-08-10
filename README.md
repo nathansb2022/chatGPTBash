@@ -23,4 +23,4 @@ model="gpt-4o-mini"
 sudo apt install jq
 ```
 ### Link
-(jq)[https://jqlang.github.io/jq/]
+[jq](https://jqlang.github.io/jq/)
